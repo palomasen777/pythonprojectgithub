@@ -1,0 +1,5 @@
+jar1 = int(input("Enter number of marbles in jar A: "))
+jar2 = int(input("Enter number of marbles in jar B: "))
+#print("numbers of marbles", type(jar1))
+total = (jar1+jar2)
+print(total)

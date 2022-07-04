@@ -1,0 +1,1 @@
+print('food is delicious')
